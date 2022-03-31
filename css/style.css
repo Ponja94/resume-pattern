@@ -36,6 +36,10 @@ body{
 	font-size: 0.9em;
 }
 
+.txt-contact-footer{
+	font-size: 0.7em;
+}
+
 
 #upper-bodybg{
 
@@ -45,3 +49,4 @@ body{
 .color-stripe{
 	background: #eee;
 }
+
