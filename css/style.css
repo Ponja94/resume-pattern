@@ -1,0 +1,47 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+	font-family: "Tahoma", Helvetica, sans-serif;
+	background: #FFF;
+
+}
+
+
+
+.color-bg-pattern{
+	background: #dfdfdf;
+
+}
+
+.txt-sumary-size{
+	min-height: 100px;
+	max-height: 200px;
+	font-size: 0.9em;
+}
+
+#txt-about-size{
+
+	min-height: 200px;
+
+	font-size: 1em;
+
+}
+
+.txt-contact-size{
+	font-size: 0.9em;
+}
+
+
+#upper-bodybg{
+
+	height: auto;
+}
+
+.color-stripe{
+	background: #eee;
+}
